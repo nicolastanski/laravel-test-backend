@@ -1,3 +1,14 @@
+# 🏡 Propriedades e Contratos 📑 
+
+### Instalação
+```
+git clone https://github.com/nicolastanski/laravel-test-backend.git
+cd laravel-test-backend
+docker-composer up
+```
+
+--------
+
 ### Sobre a Accordous
 ##### Não perca mais tempo com seus contratos.
 Somos uma empresa de tecnologia voltada a simplificação de processos burocráticos! Desde a concepção até a cobrança de contratos, seja ele de imóveis, acordo, prestação de serviços, entre outros.
